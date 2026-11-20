@@ -1,0 +1,4 @@
+aws_region       = "sa-east-1"
+environment      = "dev"
+allowed_ssh_cidr = "200.1.2.3/32"
+docker_image     = "ghcr.io/meu-usuario/taskflow-api:latest"
